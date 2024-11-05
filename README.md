@@ -3,6 +3,9 @@
 + [Прейти до лабораторної "Вивчення Docker"](#лабораторна-вивчення-docker)
 + [Перейти до лабораторної "Реалізація перетворень між системами координат"](https://github.com/val-suprunovska/coordinate-system)
 + [Перейти до лабораторної "Розробка додатку для візуалізації вимірювань радару"](https://github.com/val-suprunovska/radar)
++ [Перейти до лабораторної "Розробка додатку для візуалізації вимірювань GPS"](https://github.com/val-suprunovska/gps)
++ [Перейти до лабораторної "Розробка додатку для візуалізації вимірювань LORAN"](https://github.com/val-suprunovska/loran)
++ [Перейти до лабораторної "Дослідження фільтра Калмана"](https://github.com/val-suprunovska/kalmanfilter)
 
 ___
 # Лабораторна "Вивчення Git"
