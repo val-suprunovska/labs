@@ -279,3 +279,20 @@ ___
 ____
 
 # Лабораторна "Вивчення Docker"
+
+### Запускаю перший контейнер
+<img src="docker/screenshots/01.png">
+
+Для цього контейнера інтерфейс доступний через порт 8080. Відкриваю у браузері localhost
+<img src="docker/screenshots/02.png">
+
+### Запускаю другий контейнер 
+Програма завантажилася 
+<img src="docker/screenshots/03.png">
+
+Вношу зміни у файл `backend/src/routes/getGreeting.js`, а потім в плейсхолдер
+<img src="docker/screenshots/04.png">
+<img src="docker/screenshots/05.png">
+
+Вношу зміни до `index.scss`
+<img src="docker/screenshots/06.png">
